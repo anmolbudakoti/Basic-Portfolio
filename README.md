@@ -17,18 +17,6 @@ This project showcases my skills and projects through a responsive personal port
 - **HTML**
 - **Tailwind CSS**
 
-## How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/anmolbudakoti/CODSOFT-Portfolio.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd CODSOFT-Portfolio
-   ```
-
 3. Open the `index.html` file in your preferred web browser.
 
 ## Author
